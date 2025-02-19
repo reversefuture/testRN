@@ -71,6 +71,7 @@ function Example() {
             <Text style={[fonts.size_40, fonts.gray800, fonts.bold]}>
               {t('screen_example.title')}
             </Text>
+            <Text>WWell test1</Text>
             <Text
               style={[fonts.size_16, fonts.gray200, gutters.marginBottom_40]}
             >
